@@ -9,35 +9,6 @@ Users can register, login, manage tasks (create, edit, delete, toggle complete),
 
 ---
 
-## 📂 Folder Structure
-
-
-├── backend/
-│ ├── src/
-│ │ ├── config/db.js
-│ │ ├── controllers/
-│ │ ├── middlewares/
-│ │ ├── models/
-│ │ ├── routes/
-│ │ ├── app.js
-│ │ └── server.js
-│ └── package.json
-├── frontend/
-│ ├── src/
-│ │ ├── api/axios.js
-│ │ ├── components/
-│ │ ├── context/AuthContext.jsx
-│ │ ├── pages/
-│ │ ├── routes/AppRoutes.jsx
-│ │ ├── App.jsx
-│ │ └── main.jsx
-│ └── package.json
-├── .gitignore
-└── README.md
-
-
----
-
 ## ⚡ Features
 
 - User authentication (register & login) with JWT.
