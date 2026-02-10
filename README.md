@@ -1,6 +1,6 @@
 ## 📸 UI Preview
 
-![Task Management App UI](frontend/public/e284a4a7-065d-474d-ac0d-fbb4280f386a.png)
+![Task Management App UI](frontend/public/Assignmen.png)
 
 # Task Management App
 
