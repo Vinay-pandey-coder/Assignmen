@@ -21,4 +21,8 @@ app.use("/api/users", userRoutes);
 // Error handler
 app.use(errorHandler);
 
+app.get("/", (req, res) => {
+  res.send("API is running...");
+});
+
 module.exports = app;
