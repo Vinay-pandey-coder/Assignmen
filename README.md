@@ -31,7 +31,7 @@ Users can register, login, manage tasks (create, edit, delete, toggle complete),
 
 ## 🚀 Live Demo
 
-Check out the live demo [here](https://assignmen-frontend.vercel.app/login)
+Check out the live demo [https://assignmen-frontend.vercel.app/login]
 
 ---
 
